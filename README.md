@@ -56,8 +56,6 @@ This is an advanced task management tool built with React, Typescript, Tailwind,
 3. Set up environment variables with necessary credentials.
 4. Run the application.
 
-## Getting Started
-
  Clone the repository: https://github.com/PATILMANISH/task-management.git
  
 ### Frontend
